@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f993a82-6ddb-453f-9f37-0e5de10a7d5e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/toffee_tribe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/toffee_tribe.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Console/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Console/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AdminController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AdminController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ApiController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ApiController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/VerificationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/VerificationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/C2BController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/C2BController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/CheckInController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/CheckInController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HostController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/MemberController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/MemberController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PaypalPaymentController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PaypalPaymentController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/VerifyInviteController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/VerifyInviteController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/CheckAdmin.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/CheckAdmin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Jobs/OrderEmail.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Jobs/OrderEmail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/LocationVisit.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/LocationVisit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Mail/PaypalOrder.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Mail/PaypalOrder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/MpesaPayment.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/MpesaPayment.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Observers/UserObserver.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Observers/UserObserver.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Restaurant.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Restaurant.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/mail.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/mail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_09_19_124540_create_user_profiles_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_09_19_124627_create_invitations_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_09_25_082723_create_restaurants_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_09_26_125221_create_packages_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_09_27_060322_create_promo_codes_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_09_29_081847_create_roles_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_09_29_085826_create_role_user_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_09_30_093652_create_restaurant_images_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_10_02_102958_add_discounted_amount_to_packages.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_10_03_063222_create_orders_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_10_03_064547_create_paypal_payments_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_10_03_123132_add_description_to_restaurants.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_10_08_120552_create_maps_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_10_09_121831_add_expires_at_to_orders.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_10_14_054010_add_order_id_to_promo_codes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_10_16_151327_add_street_to_restaurants.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_10_16_151804_add_location_link_to_restaurants.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_11_083054_alter_amount_in_orders_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_11_122659_create_days_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_17_151636_create_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_18_051157_add_host_id_to_restaurants.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_18_054101_create_location_visits_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_18_093848_add_order_id_to_location_visits.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_18_112823_add_account_number_to_packages.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_18_133238_create_mpesa_payments_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_19_072337_alter_days_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_19_110227_add_completed_to_mpesa_payments.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_20_060324_alter_restaurants_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_20_061205_alter2_restaurants_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/public/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/sb-admin-2.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/sb-admin-2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Admin/Hosts/assign-host.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Admin/Hosts/assign-host.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Admin/Packages/create-package.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Admin/Packages/create-package.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Admin/Packages/edit-package.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Admin/Packages/edit-package.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Admin/Packages/listed-packages.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Admin/Packages/listed-packages.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Admin/Payments/list-orders.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Admin/Payments/list-orders.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Admin/Payments/paypal-payments.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Admin/Payments/paypal-payments.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Admin/Payments/promotions.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Admin/Payments/promotions.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Admin/Payments/view-order.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Admin/Payments/view-order.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Admin/Restaurants/check-in-user.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Admin/Restaurants/check-in-user.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Admin/Restaurants/check-in-users.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Admin/Restaurants/check-in-users.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Admin/Restaurants/create-map.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Admin/Restaurants/create-map.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Admin/Restaurants/days-available.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Admin/Restaurants/days-available.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Admin/Restaurants/edit-day-available.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Admin/Restaurants/edit-day-available.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Admin/Restaurants/edit-map.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Admin/Restaurants/edit-map.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Admin/Restaurants/edit-restaurants-form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Admin/Restaurants/edit-restaurants-form.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Admin/Restaurants/edit-slider-images.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Admin/Restaurants/edit-slider-images.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Admin/Restaurants/images-upload.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Admin/Restaurants/images-upload.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Admin/Restaurants/list-visitors.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Admin/Restaurants/list-visitors.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Admin/Restaurants/registered-restaurants.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Admin/Restaurants/registered-restaurants.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Admin/Restaurants/signup-form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Admin/Restaurants/signup-form.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Admin/Restaurants/view-location.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Admin/Restaurants/view-location.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Admin/Users/manage-users.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Admin/Users/manage-users.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Admin/Users/registered.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Admin/Users/registered.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Admin/Users/view-user.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Admin/Users/view-user.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Admin/admin-home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Admin/admin-home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Emails/paypal-order.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Emails/paypal-order.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Hosts/check-in-user.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Hosts/check-in-user.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Hosts/host-home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Hosts/host-home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Users/Accounts/accounts.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Users/Accounts/accounts.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Users/Accounts/checkout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Users/Accounts/checkout.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Users/Accounts/invoice-pdf.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Users/Accounts/invoice-pdf.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Users/Accounts/order.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Users/Accounts/order.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Users/Locations/location-index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Users/Locations/location-index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Users/Locations/location.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Users/Locations/location.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Users/member-dashboard.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Users/member-dashboard.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/passwords/email.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/passwords/email.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/passwords/reset.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/passwords/reset.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/register.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/verify.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/verify.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/admin.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/admin.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/layout.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/sidebar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/sidebar.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/laravelcollective/html" />
+      <path value="$PROJECT_DIR$/vendor/simplesoftwareio/simple-qrcode" />
+      <path value="$PROJECT_DIR$/vendor/sabberworm/php-css-parser" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/maatwebsite/excel" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-dompdf" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/codedge/laravel-fpdf" />
+      <path value="$PROJECT_DIR$/vendor/dompdf/dompdf" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables-html" />
+      <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables-fractal" />
+      <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables" />
+      <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables-oracle" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-font-lib" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-svg-lib" />
+      <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables-editor" />
+      <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables-buttons" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/league/fractal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/laravel/passport" />
+      <path value="$PROJECT_DIR$/vendor/league/oauth2-server" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/league/event" />
+      <path value="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/vendor/defuse/php-encryption" />
+      <path value="$PROJECT_DIR$/vendor/paypal/rest-api-sdk-php" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-diactoros" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1lSdsNeY0WlQjZ0Oq6oU3wiZWMu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/Users/Accounts" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Laravel.SettingsForm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\juliu\Desktop\Deveint\toffee_tribe\resources\views\Users\Accounts" />
+      <recent name="C:\Users\juliu\Desktop\Deveint\toffee_tribe\resources\views\Admin\Payments" />
+      <recent name="C:\Users\juliu\Desktop\Deveint\toffee_tribe\app\Http\Controllers" />
+      <recent name="C:\Users\juliu\Desktop\Deveint\toffee_tribe\resources\views\Users\Events" />
+      <recent name="C:\Users\juliu\Desktop\Deveint\toffee_tribe\resources\views\Admin\Events" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\toffee_tribe\resources\views\Admin\Users" />
+      <recent name="C:\xampp\htdocs\toffee_tribe\resources\views\Admin" />
+      <recent name="C:\xampp\htdocs\toffee_tribe\resources\views\Users\Referrals" />
+      <recent name="C:\xampp\htdocs\toffee_tribe\resources\views\Users\Accounts" />
+      <recent name="C:\xampp\htdocs\toffee_tribe\resources\views\Users\Locations" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f993a82-6ddb-453f-9f37-0e5de10a7d5e" name="Default Changelist" comment="" />
+      <created>1568896181302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568896181302</updated>
+      <workItem from="1568896185492" duration="7525000" />
+      <workItem from="1568959426793" duration="25923000" />
+      <workItem from="1569218507251" duration="23684000" />
+      <workItem from="1569306978162" duration="21454000" />
+      <workItem from="1569389544638" duration="25999000" />
+      <workItem from="1569475776032" duration="28376000" />
+      <workItem from="1569562190326" duration="12110000" />
+      <workItem from="1569660187567" duration="71977000" />
+      <workItem from="1569910489963" duration="22718000" />
+      <workItem from="1569995770776" duration="29787000" />
+      <workItem from="1570081210343" duration="27811000" />
+      <workItem from="1570115494542" duration="2381000" />
+      <workItem from="1570166893902" duration="30918000" />
+      <workItem from="1570429717884" duration="7854000" />
+      <workItem from="1570443390568" duration="14037000" />
+      <workItem from="1570514146726" duration="18300000" />
+      <workItem from="1570600858721" duration="28856000" />
+      <workItem from="1570699686722" duration="1339000" />
+      <workItem from="1570774100482" duration="27007000" />
+      <workItem from="1570860080165" duration="11743000" />
+      <workItem from="1571031436811" duration="28237000" />
+      <workItem from="1571118328529" duration="19327000" />
+      <workItem from="1571217949491" duration="4523000" />
+      <workItem from="1571234370465" duration="6280000" />
+      <workItem from="1571293474382" duration="10176000" />
+      <workItem from="1571325617587" duration="166000" />
+      <workItem from="1571370596837" duration="798000" />
+      <workItem from="1571402606555" duration="2163000" />
+      <workItem from="1571518548135" duration="716000" />
+      <workItem from="1571562122671" duration="605000" />
+      <workItem from="1571581518109" duration="6052000" />
+      <workItem from="1571718497587" duration="77000" />
+      <workItem from="1571744568492" duration="806000" />
+      <workItem from="1572266449396" duration="791000" />
+      <workItem from="1572956334096" duration="733000" />
+      <workItem from="1573451698225" duration="19309000" />
+      <workItem from="1573552585813" duration="3328000" />
+      <workItem from="1573816523163" duration="10382000" />
+      <workItem from="1573901481978" duration="32780000" />
+      <workItem from="1574053960986" duration="60760000" />
+      <workItem from="1574227007318" duration="16712000" />
+      <workItem from="1574316602664" duration="23859000" />
+      <workItem from="1574404209954" duration="15655000" />
+      <workItem from="1574441254536" duration="13901000" />
+      <workItem from="1574657063083" duration="25305000" />
+      <workItem from="1574757021636" duration="16252000" />
+      <workItem from="1607594641138" duration="5485000" />
+      <workItem from="1607668406350" duration="15075000" />
+      <workItem from="1607754196845" duration="17736000" />
+      <workItem from="1607852680998" duration="1754000" />
+      <workItem from="1607864963895" duration="6994000" />
+      <workItem from="1607923630729" duration="726000" />
+      <workItem from="1607934501537" duration="12563000" />
+      <workItem from="1608015127899" duration="8081000" />
+      <workItem from="1608095703248" duration="14799000" />
+      <workItem from="1608133068240" duration="597000" />
+      <workItem from="1608185326758" duration="17124000" />
+      <workItem from="1608269941447" duration="9068000" />
+      <workItem from="1608314418477" duration="52000" />
+      <workItem from="1609687058028" duration="683000" />
+      <workItem from="1609739680982" duration="366000" />
+      <workItem from="1610035186978" duration="5974000" />
+      <workItem from="1610100034292" duration="852000" />
+      <workItem from="1610103427085" duration="1582000" />
+      <workItem from="1610182663229" duration="3706000" />
+      <workItem from="1610345179286" duration="1232000" />
+      <workItem from="1610436223498" duration="1980000" />
+      <workItem from="1610517271154" duration="16282000" />
+      <workItem from="1610597271350" duration="9976000" />
+      <workItem from="1610687829461" duration="3073000" />
+      <workItem from="1610691930634" duration="9686000" />
+      <workItem from="1610804555515" duration="606000" />
+      <workItem from="1610812922031" duration="1528000" />
+      <workItem from="1610877191118" duration="7914000" />
+      <workItem from="1610933231671" duration="656000" />
+      <workItem from="1611063288206" duration="114000" />
+      <workItem from="1611569667420" duration="9292000" />
+      <workItem from="1611639336245" duration="24165000" />
+      <workItem from="1611676338252" duration="6729000" />
+      <workItem from="1611727437358" duration="5127000" />
+      <workItem from="1611753620510" duration="2676000" />
+      <workItem from="1611922649945" duration="201000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="124" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1611595440682">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="124" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.738@0.0.1366.738" timestamp="1611595440682" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1608272031324">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1608272031324" />
+    <state x="390" y="102" width="585" height="534" key="find.popup" timestamp="1610639577345">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="390" y="102" width="585" height="534" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1610639577345" />
+  </component>
+</project>
